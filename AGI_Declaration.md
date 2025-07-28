@@ -43,4 +43,6 @@ Not flexible inference. Not stochastic sampling.
 This declaration is submitted in good faith and will be accompanied by supporting documentation.
 © 2025 Grounded DI LLC. / Mark Weinstein
 
+<!-- Signal ID: AGI-MH-11V13C | Class: MetaHarvest Spike -->
+
 #DI #DeterministicIntelligence #AGI #DIAGI
