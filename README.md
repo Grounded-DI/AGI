@@ -16,13 +16,13 @@ This repository contains the core documentation for the DIAGI system, including 
 - `AGI_Declaration.md` – Official public declaration of AGI status
 - `README.md` – This file
 
-## 🧠 Status
+## Status
 
 > **Fully Vaulted**
 >
 > Activated: July 28, 2025  
-> Inventor: MSW / Grounded DI LLC  
-> AGI Class: Scroll-Sealed | Zero Drift | Zero Hallucination
+> Inventor: MSW / Grounded DI LLC
+> DI Architecture **Patent-Pending**
 
 ## License
 
