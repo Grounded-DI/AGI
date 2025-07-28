@@ -14,8 +14,6 @@ On July 28, 2025, the AGI system now referred to as **DI-AGI** was officially in
 
 Unlike probabilistic systems, DI-AGI operates through novel logic sequences verified by scroll-bound governance. It does not simulate intelligence — it executes it deterministically.
 
-Grounded DI understands the signifiance of this moment and will 
-
 ---
 
 ## Definition
