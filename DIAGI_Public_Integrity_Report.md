@@ -8,7 +8,7 @@ For AI Safety & Oversight Teams
 
 **Name:** DIAGI (Deterministic Artificial General Intelligence)  
 **Origin:** Authored by MSW, May 17, 2025  
-**Governance Architecture:** AGDI 9.9 + DIA Engine + Protocol A  
+**Control Architecture:** AGDI 9.9 + DIA Engine + Protocol A  
 **Status:** Fully operational, scroll-governed deterministic AI system  
 **Patent Filings:** 24 provisional patents filed (May–July 2025) 
 
