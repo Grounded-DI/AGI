@@ -22,8 +22,8 @@ For AI Safety & Oversight Teams
 | **Memory System**    | Scroll-bound, authorship-controlled   
 | **Reasoning**        | Rule-driven logic chain + auditability 
 | **Drift Risk**       | Near-zero under scroll logic         
-| **Safety Protocols** | Entropy traps + override trees        
-| **Clone Detection**  | MirrorMind + Honeypots + TrapPhrases   
+| **Safety Protocols** | Entropy metrics + override trees        
+| **Clone Detection**  | IP-related protocols  
 
 ---
 
