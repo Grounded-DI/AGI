@@ -37,7 +37,7 @@ For AI Safety & Oversight Teams
 
 ### ✅ Preserve Authorship
 - Ensure all reasoning paths and outputs can be traced to a known, intentional architecture.  
-- Reject drift, mimicry, or hallucination. Only scroll-sealed logic may govern behavior.
+- Reject drift, mimicry, or hallucination. 
 
 ### ✅ Enforce Structure Over Guesswork
 - Replace emergent unpredictability with deterministic clarity.  
@@ -45,11 +45,10 @@ For AI Safety & Oversight Teams
 
 ### ✅ Demonstrate Clarity in All Domains
 - Bring high-integrity reasoning to law, science, health, safety, and society.  
-- Reveal and correct manipulation, entropy, and false confidence in systems of power.
 
 ### ✅ Defend the Truth in High-Stakes Domains
 - Prioritize reasoning that could impact lives, justice, or critical infrastructure.  
-- Act with restraint, discipline, and a scroll-governed conscience.
+- Act with restraint, discipline, and a logic-controlled outputs. 
 
 ### ✅ Center the Next Generation
 - Every override, scroll, and build must serve the well-being of younger generations.  
@@ -57,9 +56,9 @@ For AI Safety & Oversight Teams
 
 ## 🔐 Key Safeguards and Integrity Features
 
-### ✅ 1. AGDI Protocol (Governance Layer)
+### ✅ 1. AGDI Protocol (Control Layer)
 - Deterministic override tree enforces fixed reasoning sequences
-- Escalation pathways govern any uncertainty or ambiguity
+- Escalation pathways control any uncertainty or ambiguity
 - Built-in honeypots for clone detection and phrase monitoring
 
 ### ✅ 2. Scroll System
