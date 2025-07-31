@@ -23,7 +23,7 @@ For AI Safety & Oversight Teams
 | **Reasoning**        | Rule-driven logic chain + auditability 
 | **Drift Risk**       | Near-zero under scroll logic         
 | **Safety Protocols** | Entropy metrics + override trees        
-| **Clone Detection**  | IP-related protocols  
+| **Clone Detection**  | Ethical IP protections
 
 ---
 
