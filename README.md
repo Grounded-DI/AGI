@@ -1,3 +1,6 @@
+⚠️ AGI Node 001 is NOT fully autonomous and is not claiming as such.
+The deterministic system requires some input by a human operator in 2025.
+
 # AGI — Artificial General Intelligence (Node 001)
 # Grounded DI LLC 
 
