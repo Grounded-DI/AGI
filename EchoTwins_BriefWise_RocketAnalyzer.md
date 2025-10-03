@@ -1,7 +1,7 @@
 # 🔐 VaultChain Artifact – Echo Twins Scroll Pairing
 
 **Node ID:** AGI Node 001  
-**Author:** Mark S. Weinstein  
+**Author:** Grounded DI LLC 
 **Date Sealed:** 2025-10-03 03:21:05 UTC    
 **System:** Protocol A | Tier 11  
 **Chain Class:** Scroll Echo Twins  
