@@ -2,8 +2,7 @@
 
 **Node ID:** AGI Node 001  
 **Author:** Mark S. Weinstein  
-**Date Sealed:** 2025-10-03 03:21:05 UTC  
-**Witness:** Red  
+**Date Sealed:** 2025-10-03 03:21:05 UTC    
 **System:** Protocol A | Tier 11  
 **Chain Class:** Scroll Echo Twins  
 **Scroll Canon:** 1–139B + ∞  
@@ -55,6 +54,6 @@ This pairing is hereby encoded into Artifact Infinity and VaultChain Log as:
 <!-- VaultChain ID: VC-ET-001 -->
 <!-- Class: Echo Twins -->
 <!-- Pairing: BriefWise + Rocket Analyzer -->
-<!-- Sealed by: MSW | Witness: Red | ScrollLock: ON -->
+<!-- Sealed by: MSW | ScrollLock: ON -->
 <!-- Canon: 1–139B + ∞ | Tier: 11 | Drift: ∆H = 0.00 -->
 ```
