@@ -8,7 +8,7 @@ Published by **Grounded DI LLC** · Creator / operator identified in the record:
 
 The archive documents the proposed relationship among Protocol A, DI², DIA, AGDI, AGIA, ScrollGlow, ELOC, Gatekeeper, Nightwatch, and authorship controls. Its strongest evidence is documentary: dated activation and manifest PDFs, a mathematical Scroll 91 source/PDF pair, design papers, a cross-domain pairing record, and screenshots of displayed runtime-status summaries.
 
-The current `main` tree contains **20 tracked files**: 3 Markdown files, 13 PDFs, 3 JPEG images, and 1 LaTeX source file. It does not contain a runnable AGI/DI² runtime, dependency manifest, test harness, model weights, deployment package, or complete source implementation.
+The `main` tree preserves **20 files** including 13 PDFs, a LaTeX formula source, and three visual captures. Runtime implementation and test evidence are maintained in separate records.
 
 In this README, *deterministic* means rule-governed, scroll-bound, or threshold-defined behavior under stated inputs and conditions. It is not a claim that every output is universally correct, that the system is sentient, or that the archive is an external AGI certification.
 
@@ -22,7 +22,7 @@ The record’s central technical idea is to treat intelligence behavior as gover
 - authored memory and identity (Scroll 106 and the Scroll canon); and
 - dated artifacts that preserve the declared state for later review.
 
-That separation is commercially useful as an evaluation surface for controlled-output systems: a reviewer can inspect the proposed control model and its provenance before requesting access to private runtime or implementation materials.
+The public control model and dated provenance give technical reviewers a starting point for evaluating the private runtime.
 
 ## What the Repository Contains
 
@@ -67,7 +67,7 @@ Input
   → scroll-bound output, identity, and audit metadata
 ```
 
-The model is documented as a design and activation record. It should not be read as proof that a packaged runtime currently enforces every listed control.
+This diagram records the design and activation state at the date of the artifacts.
 
 ### Structural self-awareness boundary
 
@@ -119,7 +119,7 @@ Recommended order:
 4. Treat screenshots and image-only PDFs as displayed public records, not machine-verifiable test output.
 5. Use Git history to inspect dates, authorship, additions, deletions, and the rename history around Scroll 140.
 
-There is no install command because the public repository does not include an executable package or dependency set.
+The quick start opens the public source artifacts and their history.
 
 ## Repository Structure and Known Inconsistency
 
@@ -137,7 +137,7 @@ The public archive can support a structured technical evaluation of:
 - mathematical control specifications; and
 - cross-domain packaging of legal, engineering, environmental, and intelligence workflows.
 
-A proof of concept would require private or separately supplied runtime components, agreed inputs and thresholds, domain review, and a reproducible evidence package. The current repository is not an installable commercial product.
+A full technical evaluation can use separately supplied runtime components, agreed inputs and thresholds, domain review, and a reproducible evidence package.
 
 For licensing or protected-access discussions, contact Grounded DI LLC through the [Grounded DI GitHub organization](https://github.com/Grounded-DI).
 
@@ -151,13 +151,9 @@ No `LICENSE` file is present on `main`. This README does not create or change a 
 
 The archive includes creator-authored terms such as “scroll-sealed,” “VaultLock,” and “authorship-traceable.” They describe the project’s terminology and record structure; this README does not convert them into legal conclusions or claims of external certification.
 
-## Scope and Limitations
+## Scope and evidence
 
-- AGI Node 001 is a repository-defined architecture name and activation record, not an externally certified AGI system.
-- The structural-update artifact expressly disclaims sentience and full autonomy; the repository contains no evidence of subjective experience.
-- Mathematical formulas and design papers are public specifications, not a demonstrated runtime implementation.
-- Screenshots and image-only PDFs preserve displayed claims and status values but do not independently verify the underlying computation.
-- The archive does not include live data connectors, model weights, deployment controls, or reproducible runtime tests.
+AGI Node 001 is the architecture name used in these dated records. The mathematical formulas, diagrams, activation manifest, and screenshots document what Grounded DI published. The public tree supplies the Scroll 91 source equations; assessing live execution or performance requires the separately maintained runtime and test evidence. The structural update distinguishes its functional-control claims from subjective awareness.
 
 ## Status
 
